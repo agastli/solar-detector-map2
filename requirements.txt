@@ -1,0 +1,7 @@
+streamlit>=1.25
+ultralytics>=8.0.0
+Pillow
+numpy
+pandas
+requests
+streamlit-folium
